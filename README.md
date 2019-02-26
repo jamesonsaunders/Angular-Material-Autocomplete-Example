@@ -8,12 +8,6 @@ A simple example of how to use Angular Material Autocomplete. Includes both a fi
 
 If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development videos.
 
-## Npm commands
-
-Build for development `npm run build`
-Build for production `npm run build:prod`
-Publish production hosting: `npm run publish:web`
-
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
