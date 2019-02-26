@@ -1,26 +1,22 @@
-# AngularMaterialAutocomplete
+# Angular Material Autocomplete Example
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Angular Material Autocomplete](https://youtu.be/lUPMxuybaPM).
+
+[![Angular Material Autocomplete](https://img.youtube.com/vi/lUPMxuybaPM/0.jpg)](https://youtu.be/lUPMxuybaPM)
+
+A simple example of how to use Angular Material Autocomplete. Includes both a filtered and a non-filtered example.
+
+If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development videos.
+
+## Npm commands
+
+Build for development `npm run build`
+Build for production `npm run build:prod`
+Publish production hosting: `npm run publish:web`
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
