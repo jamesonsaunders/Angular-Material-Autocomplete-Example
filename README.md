@@ -1,10 +1,10 @@
 # Angular Material Autocomplete Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Angular Material Autocomplete](https://youtu.be/lUPMxuybaPM).
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Let's Build A Diff App](https://youtu.be/a_5KHpSumi4).
 
-[![Angular Material Autocomplete](https://img.youtube.com/vi/lUPMxuybaPM/0.jpg)](https://youtu.be/lUPMxuybaPM)
+[![Let's Build A Diff App](https://img.youtube.com/vi/a_5KHpSumi4/0.jpg)](https://youtu.be/a_5KHpSumi4)
 
-A simple example of how to use Angular Material Autocomplete. Includes both a filtered and a non-filtered example.
+A simple app that compares the difference between two text inputs.
 
 If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development videos.
 
