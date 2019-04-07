@@ -2,7 +2,7 @@
 
 This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Angular Material Autocomplete](https://youtu.be/lUPMxuybaPM).
 
-[![Angular Material Autocomplete](https://img.youtube.com/vi/lUPMxuybaPM/0.jpg)](https://youtu.be/lUPMxuybaPM)
+[![Angular Material Autocomplete](https://img.youtube.com/vi/lUPMxuybaPM/maxresdefault.jpg)](https://youtu.be/lUPMxuybaPM)
 
 A simple example of how to use Angular Material Autocomplete. Includes both a filtered and a non-filtered example.
 
